@@ -49,5 +49,5 @@ redirect_from:
 
 ## Contact
 
-- Email: [jiamingliu@nuaa.edu.cn](082110117@nuaa.edu.cn)
+- Email: [082110117@nuaa.edu.cn](082110117@nuaa.edu.cn)
 - Office: Department of Computer Science and Artificial Intelligence, Nanjing University of Aeronautics and Astronautics, Nanjing, China
