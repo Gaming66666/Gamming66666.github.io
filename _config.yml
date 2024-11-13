@@ -24,9 +24,9 @@ author:
   avatar           : "pic.png"
   name             : "Jiaming Liu"
   pronouns         : # example: "she/her"  
-  bio              : "Hello, my name is Jiaming Liu, and I am currently a student at NUAA. "
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Nanjing University of Aeronautics and Astronautics "
+  location         : "China Nanjing"
+  employer         : 
   uri              : # URL
   email            : "none@example.org" 
 
@@ -44,7 +44,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "https://github.com/Gaming66666"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
