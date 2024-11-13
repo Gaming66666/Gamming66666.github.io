@@ -51,3 +51,4 @@ redirect_from:
 
 - Email: [082110117@nuaa.edu.cn](082110117@nuaa.edu.cn)
 - Office: Department of Computer Science and Artificial Intelligence, Nanjing University of Aeronautics and Astronautics, Nanjing, China
+- IEEE Author Page: [Jiaming Liu on IEEE Xplore](https://ieeexplore.ieee.org/author/561069886163928)
